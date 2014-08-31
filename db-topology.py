@@ -6,8 +6,8 @@ import networkx as nx
 import json
 from networkx.readwrite import json_graph
 
-user = 'dbauser'
-password = 'dbauser'
+user = 'yourname'
+password = 'yourpassword'
 
 g = nx.DiGraph()
 
